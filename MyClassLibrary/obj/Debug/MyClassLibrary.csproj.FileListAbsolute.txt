@@ -1,0 +1,5 @@
+E:\PROGRAMMING\25.10\ISMDotNet4\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\PROGRAMMING\25.10\ISMDotNet4\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\PROGRAMMING\25.10\ISMDotNet4\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\25.10\ISMDotNet4\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\PROGRAMMING\25.10\ISMDotNet4\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
